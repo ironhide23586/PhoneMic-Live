@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TCPDataExchange</name>
+    </assembly>
+    <members>
+        <member name="T:TCPConnector.TCPDataReader">
+            <summary>
+            Class to handle data receiving operations over the TCP Protocol.
+            </summary>
+        </member>
+        <member name="T:TCPConnector.TCPDataExchange">
+            <summary>
+            Base class inherited by classes performing data exchange operations over TCP.
+            </summary>
+        </member>
+        <member name="M:TCPConnector.TCPDataReader.#ctor(System.String,System.Int32)">
+            <summary>
+            Constructor accepting IP Address and Port number over which data will be exchanged.
+            </summary>
+            <param name="IP_ADDRESS">IP Address of incoming data source.</param>
+            <param name="PORT_NUMBER">Port over which data will be received.</param>
+        </member>
+        <member name="M:TCPConnector.TCPDataReader.#ctor(System.Int32)">
+            <summary>
+            Constructor accepting only Port Number over which data will be exchanged.
+            Data will be exchanged over ANY IP Address using this port number if IP_ADDRESS property is left blank.
+            </summary>
+            <param name="PORT_NUMBER">Port over which data will be received.</param>
+        </member>
+        <member name="M:TCPConnector.TCPDataReader.initializeMethod(System.String,System.Int32)">
+            <summary>
+            Used to initialize object taking both IP Address and Port Number as input.
+            </summary>
+            <param name="IP_ADDRESS">IP Address from which to accept data.</param>
+            <param name="PORT_NUMBER">Port over which data will be exchanged.</param>
+        </member>
+        <member name="M:TCPConnector.TCPDataReader.initializeWithPORT_NUMBER(System.Int32)">
+            <summary>
+            Used to initialize object taking only port number. Data will be accepted from any IP Address.
+            </summary>
+            <param name="PORT_NUMBER">Port over which data will be exchanged.</param>
+        </member>
+        <member name="M:TCPConnector.TCPDataReader.StartListener">
+            <summary>
+            Starts the TCP Listener.
+            </summary>
+        </member>
+        <member name="M:TCPConnector.TCPDataReader.StopListener">
+            <summary>
+            Stops the TCP Listener.
+            </summary>
+        </member>
+        <member name="M:TCPConnector.TCPDataReader.GetReceivedStringData">
+            <summary>
+            Gets the data received as a string over the specified IP Address and Port number and updates the ReceivedData property.
+            NOTE : This method requires explicit starting and stopping of the listener through the StartListener()
+            and StopListener() methods.
+            </summary>
+            <returns>Data Received over the given port as string.</returns>
+        </member>
+        <member name="M:TCPConnector.TCPDataReader.GetReceivedByteData">
+            <summary>
+            Gets data as a byte stream over the specified IP Address and Port number, and stores in the
+            buffer.
+            NOTE : Listener must be explicitly started by calling the StartListener() method before calling this 
+            function.
+            </summary>
+            <returns>Byte stream of received data.</returns>
+        </member>
+        <member name="M:TCPConnector.TCPDataReader.GetReceivedStringDataWithoutInitialization">
+            <summary>
+            Gets the data received as a string over the specified IP Address and Port number and updates the ReceivedData property.
+            NOTE : This method does not require explicit starting and stopping of the listener through the StartListener()
+            and StopListener() methods.
+            </summary>
+            <returns>Data Received over the given port as string.</returns>
+        </member>
+        <member name="M:TCPConnector.TCPDataReader.GetReceivedByteDataWithoutInitialization">
+            <summary>
+            Gets data as a byte stream over the specified IP Address and Port number, and stores in the
+            buffer.
+            This method creates a connection, receives data and then automtically closes the connection.
+            NOTE : The start listener and stop listener methods need not be called.
+            </summary>
+            <returns>Byte stream of received data.</returns>
+        </member>
+        <member name="M:TCPConnector.TCPDataReader.Dispose">
+            <summary>
+            Disposes and releases all unmanaged resources utilized by this class.
+            </summary>
+        </member>
+        <member name="P:TCPConnector.TCPDataReader.LISTENING_PORT_NO">
+            <summary>
+            Port over which data will be received.
+            </summary>
+        </member>
+        <member name="P:TCPConnector.TCPDataReader.LISTENING_IP_ADDRESS">
+            <summary>
+            IP Address of incoming data source.
+            </summary>
+        </member>
+        <member name="P:TCPConnector.TCPDataReader.ReceiveBufferSize">
+            <summary>
+            Size of data receiving buffer size. Default = 8192
+            </summary>
+        </member>
+        <member name="P:TCPConnector.TCPDataReader.ReceivedStringData">
+            <summary>
+            String data received.
+            </summary>
+        </member>
+        <member name="P:TCPConnector.TCPDataReader.ReceivedByteData">
+            <summary>
+            Byte stream data received.
+            </summary>
+        </member>
+        <member name="P:TCPConnector.TCPDataReader.NoOfBytesRead">
+            <summary>
+            Number of bytes read into the buffer.
+            </summary>
+        </member>
+        <member name="T:TCPConnector.TCPDataSender">
+            <summary>
+            Class to handle data sending operations over the TCP Protocol.
+            </summary>
+        </member>
+        <member name="M:TCPConnector.TCPDataSender.#ctor(System.String,System.Int32)">
+            <summary>
+            Constructor accepting target server's IP address and port number as arguments.
+            </summary>
+            <param name="TARGET_SERVER_IP">IP Address of server to which the data is to be sent.</param>
+            <param name="PORT_NO">Target port to which the dat is to be sent.</param>
+        </member>
+        <member name="P:TCPConnector.TCPDataSender.SENDING_IP_ADDRESS">
+            <summary>
+            IP Adress of target machine to which dat is sent.
+            </summary>
+        </member>
+        <member name="P:TCPConnector.TCPDataSender.SENDING_PORT_NO">
+            <summary>
+            Port over which the data is to be sent.
+            </summary>
+        </member>
+    </members>
+</doc>

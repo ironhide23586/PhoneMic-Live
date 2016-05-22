@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WifiPhoneApp1</name>
+    </assembly>
+    <members>
+        <member name="M:WifiPhoneApp1.App.#ctor">
+            <summary>
+            Constructor for the Application object.
+            </summary>
+        </member>
+        <member name="M:WifiPhoneApp1.App.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="P:WifiPhoneApp1.App.RootFrame">
+            <summary>
+            Provides easy access to the root frame of the Phone Application.
+            </summary>
+            <returns>The root frame of the Phone Application.</returns>
+        </member>
+        <member name="M:WifiPhoneApp1.MainPage.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="M:WifiPhoneApp1.SocketClient.Connect(System.String,System.Int32)">
+            <summary>
+            Attempt a TCP socket connection to the given host over the given port
+            </summary>
+            <param name="hostName">The name of the host</param>
+            <param name="portNumber">The port number to connect</param>
+            <returns>A string representing the result of this connection attempt</returns>
+        </member>
+        <member name="M:WifiPhoneApp1.SocketClient.Send(System.String)">
+            <summary>
+            Send the given string data to the server using the established connection
+            </summary>
+            <param name="data">The data to send to the server</param>
+            <returns>The result of the Send request</returns>
+        </member>
+        <member name="M:WifiPhoneApp1.SocketClient.Send(System.Byte[])">
+            <summary>
+            Send the given raw data (in a byte stream) to the server using the established connection
+            </summary>
+            <param name="payload">The raw byte data to send to the server</param>
+            <returns>The result of the Send request</returns>
+        </member>
+    </members>
+</doc>

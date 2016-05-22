@@ -1,0 +1,6 @@
+C:\Users\monst_000\SkyDrive\Software Projects and Codes\Visual Studio 2012\Part 3\TCPDataExchange\TCPDataExchange\bin\Debug\TCPDataExchange.dll
+C:\Users\monst_000\SkyDrive\Software Projects and Codes\Visual Studio 2012\Part 3\TCPDataExchange\TCPDataExchange\bin\Debug\TCPDataExchange.pdb
+C:\Users\monst_000\SkyDrive\Software Projects and Codes\Visual Studio 2012\Part 3\TCPDataExchange\TCPDataExchange\obj\Debug\TCPDataExchange.dll
+C:\Users\monst_000\SkyDrive\Software Projects and Codes\Visual Studio 2012\Part 3\TCPDataExchange\TCPDataExchange\obj\Debug\TCPDataExchange.pdb
+C:\Users\monst_000\SkyDrive\Software Projects and Codes\Visual Studio 2012\Part 3\TCPDataExchange\TCPDataExchange\bin\Debug\TCPDataExchange.XML
+C:\Users\monst_000\SkyDrive\Software Projects and Codes\Visual Studio 2012\Part 3\TCPDataExchange\TCPDataExchange\obj\Debug\TCPDataExchange.csprojResolveAssemblyReference.cache

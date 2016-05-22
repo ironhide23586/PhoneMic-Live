@@ -1,0 +1,14 @@
+C:\Users\monst_000\SkyDrive\Software Projects and Codes\Visual Studio 2012\Part 3\WifiTestCommApp\WifiTestCommApp\bin\Debug\WifiTestCommApp.exe
+C:\Users\monst_000\SkyDrive\Software Projects and Codes\Visual Studio 2012\Part 3\WifiTestCommApp\WifiTestCommApp\bin\Debug\WifiTestCommApp.pdb
+C:\Users\monst_000\SkyDrive\Software Projects and Codes\Visual Studio 2012\Part 3\WifiTestCommApp\WifiTestCommApp\obj\Debug\WifiTestCommApp.exe
+C:\Users\monst_000\SkyDrive\Software Projects and Codes\Visual Studio 2012\Part 3\WifiTestCommApp\WifiTestCommApp\obj\Debug\WifiTestCommApp.pdb
+C:\Users\monst_000\SkyDrive\Software Projects and Codes\Visual Studio 2012\Part 3\WifiTestCommApp\WifiTestCommApp\obj\Debug\WifiTestCommApp.csprojResolveAssemblyReference.cache
+C:\Users\monst_000\SkyDrive\Software Projects and Codes\Visual Studio 2012\Part 3\WifiTestCommApp\WifiTestCommApp\bin\Debug\WifiTestCommApp.exe.config
+C:\Users\monst_000\SkyDrive\Software Projects and Codes\Visual Studio 2012\Part 3\WifiTestCommApp\WifiTestCommApp\bin\Debug\TCPDataExchange.dll
+C:\Users\monst_000\SkyDrive\Software Projects and Codes\Visual Studio 2012\Part 3\WifiTestCommApp\WifiTestCommApp\bin\Debug\TCPDataExchange.pdb
+C:\Users\monst_000\SkyDrive\Software Projects and Codes\Visual Studio 2012\Part 3\WifiTestCommApp\WifiTestCommApp\bin\Debug\TCPDataExchange.xml
+C:\Users\monst_000\SkyDrive\Software Projects and Codes\Visual Studio 2012\Part 3\WifiTestCommApp\WifiTestCommApp\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\monst_000\SkyDrive\Software Projects and Codes\Visual Studio 2012\Part 3\WifiTestCommApp\WifiTestCommApp\bin\Debug\Microsoft.Xna.Framework.xml
+C:\Users\monst_000\SkyDrive\Software Projects and Codes\Visual Studio 2012\Part 3\WifiTestCommApp\WifiTestCommApp\bin\Debug\NAudio.dll
+C:\Users\monst_000\SkyDrive\Software Projects and Codes\Visual Studio 2012\Part 3\WifiTestCommApp\WifiTestCommApp\bin\Debug\NAudio.WindowsMediaFormat.dll
+C:\Users\monst_000\SkyDrive\Software Projects and Codes\Visual Studio 2012\Part 3\WifiTestCommApp\WifiTestCommApp\bin\Debug\NAudio.xml

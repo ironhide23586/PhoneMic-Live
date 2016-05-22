@@ -1,0 +1,15 @@
+C:\Users\monst_000\SkyDrive\Software Projects and Codes\Visual Studio 2012\Part 3\WifiTestCommApp\WifiTestCommApp\bin\Release\WifiTestCommApp.exe.config
+C:\Users\monst_000\SkyDrive\Software Projects and Codes\Visual Studio 2012\Part 3\WifiTestCommApp\WifiTestCommApp\bin\Release\WifiTestCommApp.exe
+C:\Users\monst_000\SkyDrive\Software Projects and Codes\Visual Studio 2012\Part 3\WifiTestCommApp\WifiTestCommApp\bin\Release\WifiTestCommApp.pdb
+C:\Users\monst_000\SkyDrive\Software Projects and Codes\Visual Studio 2012\Part 3\WifiTestCommApp\WifiTestCommApp\bin\Release\NAudio.dll
+C:\Users\monst_000\SkyDrive\Software Projects and Codes\Visual Studio 2012\Part 3\WifiTestCommApp\WifiTestCommApp\bin\Release\NAudio.WindowsMediaFormat.dll
+C:\Users\monst_000\SkyDrive\Software Projects and Codes\Visual Studio 2012\Part 3\WifiTestCommApp\WifiTestCommApp\bin\Release\TCPDataExchange.dll
+C:\Users\monst_000\SkyDrive\Software Projects and Codes\Visual Studio 2012\Part 3\WifiTestCommApp\WifiTestCommApp\bin\Release\NAudio.xml
+C:\Users\monst_000\SkyDrive\Software Projects and Codes\Visual Studio 2012\Part 3\WifiTestCommApp\WifiTestCommApp\bin\Release\TCPDataExchange.pdb
+C:\Users\monst_000\SkyDrive\Software Projects and Codes\Visual Studio 2012\Part 3\WifiTestCommApp\WifiTestCommApp\bin\Release\TCPDataExchange.xml
+C:\Users\monst_000\SkyDrive\Software Projects and Codes\Visual Studio 2012\Part 3\WifiTestCommApp\WifiTestCommApp\obj\Release\WifiTestCommApp.exe
+C:\Users\monst_000\SkyDrive\Software Projects and Codes\Visual Studio 2012\Part 3\WifiTestCommApp\WifiTestCommApp\obj\Release\WifiTestCommApp.pdb
+C:\Users\monst_000\SkyDrive\Software Projects and Codes\Visual Studio 2012\Part 3\WifiTestCommApp\WifiTestCommApp\obj\Release\WifiTestCommApp.csprojResolveAssemblyReference.cache
+C:\Users\monst_000\OneDrive\Web, Software & Internship Project Backups\6th Sem Mini-Project (Phone Mic Live!)\PC Software\Project Files\WifiTestCommApp\WifiTestCommApp\bin\Release\WifiTestCommApp.exe.config
+C:\Users\monst_000\OneDrive\Web, Software & Internship Project Backups\6th Sem Mini-Project (Phone Mic Live!)\PC Software\Project Files\WifiTestCommApp\WifiTestCommApp\obj\Release\WifiTestCommApp.exe
+C:\Users\monst_000\OneDrive\Web, Software & Internship Project Backups\6th Sem Mini-Project (Phone Mic Live!)\PC Software\Project Files\WifiTestCommApp\WifiTestCommApp\obj\Release\WifiTestCommApp.pdb

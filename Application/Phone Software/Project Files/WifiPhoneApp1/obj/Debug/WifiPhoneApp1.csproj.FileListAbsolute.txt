@@ -1,0 +1,14 @@
+C:\Users\monst_000\SkyDrive\Software Projects and Codes\Visual Studio 2012\Part 3\WifiPhoneApp1\WifiPhoneApp1\Bin\Debug\ApplicationIcon.png
+C:\Users\monst_000\SkyDrive\Software Projects and Codes\Visual Studio 2012\Part 3\WifiPhoneApp1\WifiPhoneApp1\Bin\Debug\Background.png
+C:\Users\monst_000\SkyDrive\Software Projects and Codes\Visual Studio 2012\Part 3\WifiPhoneApp1\WifiPhoneApp1\Bin\Debug\AppManifest.xaml
+C:\Users\monst_000\SkyDrive\Software Projects and Codes\Visual Studio 2012\Part 3\WifiPhoneApp1\WifiPhoneApp1\obj\Debug\WifiPhoneApp1.csprojResolveAssemblyReference.cache
+C:\Users\monst_000\SkyDrive\Software Projects and Codes\Visual Studio 2012\Part 3\WifiPhoneApp1\WifiPhoneApp1\obj\Debug\App.g.cs
+C:\Users\monst_000\SkyDrive\Software Projects and Codes\Visual Studio 2012\Part 3\WifiPhoneApp1\WifiPhoneApp1\obj\Debug\MainPage.g.cs
+C:\Users\monst_000\SkyDrive\Software Projects and Codes\Visual Studio 2012\Part 3\WifiPhoneApp1\WifiPhoneApp1\obj\Debug\XapCacheFile.xml
+C:\Users\monst_000\SkyDrive\Software Projects and Codes\Visual Studio 2012\Part 3\WifiPhoneApp1\WifiPhoneApp1\Bin\Debug\Phone Mic Live!.xap
+C:\Users\monst_000\SkyDrive\Software Projects and Codes\Visual Studio 2012\Part 3\WifiPhoneApp1\WifiPhoneApp1\Bin\Debug\WifiPhoneApp1.xml
+C:\Users\monst_000\SkyDrive\Software Projects and Codes\Visual Studio 2012\Part 3\WifiPhoneApp1\WifiPhoneApp1\Bin\Debug\WifiPhoneApp1.dll
+C:\Users\monst_000\SkyDrive\Software Projects and Codes\Visual Studio 2012\Part 3\WifiPhoneApp1\WifiPhoneApp1\Bin\Debug\WifiPhoneApp1.pdb
+C:\Users\monst_000\SkyDrive\Software Projects and Codes\Visual Studio 2012\Part 3\WifiPhoneApp1\WifiPhoneApp1\obj\Debug\WifiPhoneApp1.g.resources
+C:\Users\monst_000\SkyDrive\Software Projects and Codes\Visual Studio 2012\Part 3\WifiPhoneApp1\WifiPhoneApp1\obj\Debug\WifiPhoneApp1.dll
+C:\Users\monst_000\SkyDrive\Software Projects and Codes\Visual Studio 2012\Part 3\WifiPhoneApp1\WifiPhoneApp1\obj\Debug\WifiPhoneApp1.pdb
